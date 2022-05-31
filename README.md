@@ -5,9 +5,9 @@ Here are my solutions of the problem sets of the course Introduction to Computer
 
 ## Table of content
 
--Problem Set One
+* Problem Set One
 
-  -[Mario more comfortable](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%201/mario.c)
+  * [Mario more comfortable](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%201/mario.c)
   
-  -[cash](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%201/cash.c)
+  * [cash](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%201/cash.c)
   
