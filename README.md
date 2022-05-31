@@ -1,7 +1,7 @@
 # CS50x-2022
 [Link to enroll](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 
-Here are my solutions of the problem sets of the course Introduction to Computer Science CS50x 2022.
+Here are my solutions to the problem sets of the course Introduction to Computer Science CS50x 2022.
 
 [My notes in spanish](https://dajaramim.notion.site/CS50x-eeda0a504055492e8cc14c75ebc71318)
 
