@@ -15,3 +15,7 @@ Here are my solutions of the problem sets of the course Introduction to Computer
   
 * Problem Set Two
   
+  * [Lab Scrabble](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%202/scrabble.c)
+  * [Readability](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%202/readability.c)
+  * [Caesar](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%202/caesar.c)
+  * [Substitution](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%202/substitution.c)
