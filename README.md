@@ -7,4 +7,4 @@ Here are my solutions of the problem sets of the course Introduction to Computer
 
 Problem Set One
 
-  [mario](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%201/mario.c)
+  *[mario](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%201/mario.c)
