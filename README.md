@@ -22,4 +22,4 @@ Here are my solutions to the problem sets of the course Introduction to Computer
   
 * Problem Set Three
  
-  *[Plurality](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%203/plurality.c)
+  * [Plurality](https://github.com/dajaramim/CS50x-2022/blob/main/Problem%20set%203/plurality.c)
